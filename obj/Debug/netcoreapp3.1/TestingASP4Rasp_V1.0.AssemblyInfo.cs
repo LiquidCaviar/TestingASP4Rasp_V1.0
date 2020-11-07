@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("2b02a9c0-d280-41a4-b6b4-2cea3ac4e99a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestingASP4Rasp_V1.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

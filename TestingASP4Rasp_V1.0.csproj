@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>TestingASP4Rasp_V1._0</RootNamespace>
+    <UserSecretsId>2b02a9c0-d280-41a4-b6b4-2cea3ac4e99a</UserSecretsId>
   </PropertyGroup>
 
 </Project>
