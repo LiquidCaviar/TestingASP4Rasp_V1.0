@@ -30,7 +30,7 @@ namespace TestingASP4Rasp_V1._0
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             //middleware??? pipiline???
-            app.UseDefaultFiles();
+            app.UseDefaultFiles();            
             //
             app.UseStaticFiles();
             //
