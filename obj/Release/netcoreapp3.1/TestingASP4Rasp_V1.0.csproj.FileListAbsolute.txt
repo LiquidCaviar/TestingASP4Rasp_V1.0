@@ -19,3 +19,4 @@ C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Te
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.pdb
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.genruntimeconfig.cache
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.csproj.CopyComplete
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.csprojAssemblyReference.cache

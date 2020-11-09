@@ -7,10 +7,18 @@ input, textarea {
     width: 200px;
 }
 
-input[type=submit]{
-    width: auto;
-}
+    input[type=submit] {
+        width: auto;
+    }
 
 label {
     font-size: 16px;
+}
+
+div {
+    background-color: aquamarine;
+}
+
+#theForm input[type=Submit] {
+    background-color: green;
 }
