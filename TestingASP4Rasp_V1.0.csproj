@@ -6,4 +6,8 @@
     <UserSecretsId>2b02a9c0-d280-41a4-b6b4-2cea3ac4e99a</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="OdeToCode.UseNodeModules" Version="3.0.0" />
+  </ItemGroup>
+
 </Project>

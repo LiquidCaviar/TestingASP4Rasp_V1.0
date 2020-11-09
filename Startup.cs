@@ -50,6 +50,7 @@ namespace TestingASP4Rasp_V1._0
 
             //app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseNodeModules();
 
             //app.UseRouting();
 

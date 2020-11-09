@@ -6,5 +6,6 @@
   <PropertyGroup>
     <ActiveDebugProfile>TestingASP4Rasp_V1._0</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>FolderProfile</NameOfLastUsedPublishProfile>
+    <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
 </Project>

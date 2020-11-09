@@ -10,8 +10,6 @@ C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\Test
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.Views.dll
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.AssemblyInfoInputs.cache
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.AssemblyInfo.cs
-C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.csproj.CoreCompileInputs.cache
-C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.RazorTargetAssemblyInfo.cache
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\staticwebassets\TestingASP4Rasp_V1.0.StaticWebAssets.Manifest.cache
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\staticwebassets\TestingASP4Rasp_V1.0.StaticWebAssets.xml
@@ -20,3 +18,8 @@ C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\Test
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.genruntimeconfig.cache
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.csproj.CopyComplete
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.MvcApplicationPartsAssemblyInfo.cache
