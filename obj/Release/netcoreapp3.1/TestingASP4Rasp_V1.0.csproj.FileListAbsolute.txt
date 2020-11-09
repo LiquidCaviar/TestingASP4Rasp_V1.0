@@ -23,3 +23,16 @@ C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Te
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Release\netcoreapp3.1\package-lock.json
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Release\netcoreapp3.1\package.json
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Release\netcoreapp3.1\OdeToCode.UseNodeModules.dll
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.Views.pdb
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.RazorAssemblyInfo.cache
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.RazorAssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.TagHelpers.input.cache
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.TagHelpers.output.cache
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.RazorCoreGenerate.cache
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Razor\Views\App\About.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Razor\Views\App\Contact.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Razor\Views\App\Index.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.RazorTargetAssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.Views.pdb
