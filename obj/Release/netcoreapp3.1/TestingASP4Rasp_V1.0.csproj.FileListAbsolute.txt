@@ -36,3 +36,5 @@ C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Ra
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.RazorTargetAssemblyInfo.cs
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\TestingASP4Rasp_V1.0.Views.pdb
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs

@@ -12,14 +12,17 @@ namespace TestingASP4Rasp_V1._0.Controllers
         {
             return View();
         }
-
+        [HttpGet("Contact")]
         public IActionResult Contact()
         {
             ViewBag.title = "Contact Us";
 
+            throw new InvalidOperationException("Test Exception #1");
+
             return View();
         }
 
+        [HttpGet("About")]
         public IActionResult About()
         {
             ViewBag.title = "About";

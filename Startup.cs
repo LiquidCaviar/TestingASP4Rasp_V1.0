@@ -36,7 +36,7 @@ namespace TestingASP4Rasp_V1._0
             }
             else
             {
-                //error page
+                app.UseExceptionHandler("/error");
             }
 
             app.UseStaticFiles();
