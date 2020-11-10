@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -25,6 +26,7 @@ namespace TestingASP4Rasp_V1._0
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -36,7 +38,7 @@ namespace TestingASP4Rasp_V1._0
             }
             else
             {
-                app.UseExceptionHandler("/error");
+                app.UseExceptionHandler("/Error");
             }
 
             app.UseStaticFiles();
@@ -50,6 +52,8 @@ namespace TestingASP4Rasp_V1._0
                      "{controller}/{action}/{id?}",
                      new { controller = "App", action = "Index" }
                     );
+                cfg.MapRazorPages();
+
             });
 
             
