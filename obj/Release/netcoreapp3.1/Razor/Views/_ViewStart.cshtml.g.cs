@@ -19,8 +19,15 @@ using TestingASP4Rasp_V1._0.Controllers;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\Views\_ViewImports.cshtml"
+using TestingASP4Rasp_V1._0.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"77a2804b95fd303a20a56ec194ea6ca59278fafa", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7e0e58f652d6b7d193a0fcb3d25899f592520f0d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f9a6d945186ad272319502ecec463f88ead08016", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
