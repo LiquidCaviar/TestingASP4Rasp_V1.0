@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using TestingASP4Rasp_V1._0.Data;
 using TestingASP4Rasp_V1._0.Services;
 
 namespace TestingASP4Rasp_V1._0
@@ -19,6 +21,7 @@ namespace TestingASP4Rasp_V1._0
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
         }
 
         public IConfiguration Configuration { get; }
@@ -26,6 +29,10 @@ namespace TestingASP4Rasp_V1._0
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<TutorialDBcontext>(cfg => 
+            {
+                cfg.UseSqlServer(Configuration.GetConnectionString("connstring"));
+            });
             services.AddTransient<IMailService, NullMailService>();
 
 
