@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TestingASP4Rasp_V1._0.Data;
 using TestingASP4Rasp_V1._0.Services;
 using TestingASP4Rasp_V1._0.ViewModels;
 
@@ -11,9 +12,11 @@ namespace TestingASP4Rasp_V1._0.Controllers
     public class AppController:Controller
     {
         IMailService _mailService;
-        public AppController(IMailService mailService)
+        TutorialDBcontext _context;
+        public AppController(IMailService mailService, TutorialDBcontext dBcontext)
         {
             _mailService = mailService;
+            _context = dBcontext;
         }
         public IActionResult Index()
         {
@@ -42,6 +45,15 @@ namespace TestingASP4Rasp_V1._0.Controllers
             ViewBag.title = "About";
 
             return View();
+        }
+
+        public IActionResult Shop()
+        {
+            var result = _context.Products
+                .OrderBy(x=>x.Category)
+                .ToList();
+
+            return View(result);
         }
     }
 }

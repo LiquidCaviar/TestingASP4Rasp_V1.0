@@ -29,7 +29,7 @@ namespace TestingASP4Rasp_V1._0
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<TutorialDBcontext>(cfg => 
+            services.AddDbContext<TutorialDBcontext>(cfg =>
             {
                 cfg.UseSqlServer(Configuration.GetConnectionString("connstring"));
             });

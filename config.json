@@ -1,0 +1,8 @@
+{
+  "Colors": {
+    "Favorite": "blue"
+  },
+  "ConnectionStrings": {
+    "connstring": "Data Source=DESKTOP-M5RD2EA\\SQLEXPRESS;Database=ASPtesting;Integrated Security=True;MultipleActiveResultSets=true;"
+  }
+}

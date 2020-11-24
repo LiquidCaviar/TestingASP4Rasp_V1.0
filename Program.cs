@@ -29,7 +29,7 @@ namespace TestingASP4Rasp_V1._0
             builder.Sources.Clear(); //remove default config options
 
             builder.AddJsonFile("config.json", false, true)
-                .AddXmlFile("config.xml", true)
+                //.AddXmlFile("config.xml", true)
                 .AddEnvironmentVariables();
         }
     }

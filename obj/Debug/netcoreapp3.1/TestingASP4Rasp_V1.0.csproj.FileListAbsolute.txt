@@ -81,3 +81,5 @@ C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\runt
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\TestingASP4Rasp_V1.0.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\bin\Debug\netcoreapp3.1\config.json
+C:\Users\Thinkpad\source\repos\TestingASP4Rasp_V1.0\obj\Debug\netcoreapp3.1\Razor\Views\App\Shop.cshtml.g.cs
